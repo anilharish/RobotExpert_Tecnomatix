@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AddFlow Nodes="0" Links="0">
+  <Version>2.2.0.0</Version>
+  <DefaultLink>
+    <Rigid>False</Rigid>
+  </DefaultLink>
+  <DefaultNode>
+    <Shape Type="RectEdgeRaised" Orientation="so_0" />
+    <HighlightChildren>False</HighlightChildren>
+  </DefaultNode>
+  <Node Index="-1" Left="20" Top="3.33333325" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk1</Text>
+    <Tooltip>lnk1</Tooltip>
+    <Url>{273C310C-4BBE-4F3B-B6BA-4DED04554F32}</Url>
+  </Node>
+  <Node Index="-1" Left="120" Top="70" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk2</Text>
+    <Tooltip>lnk2</Tooltip>
+    <Url>{03291210-873D-44D8-9122-D78AC9764ACE}</Url>
+  </Node>
+</AddFlow>

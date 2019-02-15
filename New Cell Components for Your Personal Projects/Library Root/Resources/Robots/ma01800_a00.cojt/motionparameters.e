@@ -1,0 +1,16 @@
+config_family		    cf_over_head_neg;
+joint_config_family      j3	    joint_cf_elbow_up;
+joint_config_family      j4	    joint_cf_cos_pos;
+default_turns	j6 0 -180 ;
+zone_define  sp_zone1  no_smooth;
+zone_define  sp_zone2  dist    cartesian        12.5 ;
+zone_define  sp_zone3  dist    cartesian        25.0 ;
+zone_define  sp_zone4  dist    cartesian        50.0 ;
+zone_define  sp_zone5  dist    cartesian       100.0 ;
+zone_define  sp_zone6  dist    cartesian       200.0 ;
+zone_define  sp_zone7  dist    cartesian       300.0 ;
+zone_define  sp_zone8  dist    cartesian       400.0 ;
+zone_define  sp_zone9  dist    cartesian       500.0 ;
+cart_max_lin_speed		1500;
+cart_basic_lin_speed	1500;
+interpolation_type		interpolate_by_3_j;
